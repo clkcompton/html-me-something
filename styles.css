@@ -16,6 +16,11 @@ body {
 /* .navigation {
   background-color: #f5b461;
 } */
+
+#p1 {
+  padding: 3%; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -43,8 +48,18 @@ li a {
   background-color: #9ad3bc;
 }
 
+#video {
+  width: 500px;
+  height: auto;
+}
+
 #hobbyParagraph {
   text-align: left;
+  padding-top: 5%;
+}
+
+#videoP {
+  text-align: center;
   padding-top: 5%;
 }
 
